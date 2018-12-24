@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "893359086671",
+    "firebase_url": "https://home-51897.firebaseio.com",
+    "project_id": "home-51897",
+    "storage_bucket": "home-51897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893359086671:android:7f297e04e41b7248",
+        "android_client_info": {
+          "package_name": "com.mahbub.googlehomenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893359086671-tqcmt5g81bs0bkuqcerm9rg2sqbr7a04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXvCsiIfeR0H6wmX5HfiU7iGfSywrNT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

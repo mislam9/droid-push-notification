@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hotwire Notification App</string>
+    <string name="default_notification_channel_id">googlehome_app_CH_001</string>
+
+</resources>
